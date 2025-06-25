@@ -33,9 +33,10 @@ npm install
 npm start
 ```
 
-HOSTED LINKS:
-Frontend:
-Backend: https://adapi-backend.onrender.com/
+## HOSTED LINKS:
+
+- Live Demo: https://ad-frontend-lime.vercel.app/
+- Backend: https://adapi-backend.onrender.com/
 
 ✅ Folder Structure
 ```bash
