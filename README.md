@@ -33,6 +33,10 @@ npm install
 npm start
 ```
 
+HOSTED LINKS:
+Frontend:
+Backend: https://adapi-backend.onrender.com/
+
 ✅ Folder Structure
 ```bash
 ad-keyword-targeting-app/
