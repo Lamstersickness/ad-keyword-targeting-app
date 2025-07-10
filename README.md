@@ -6,7 +6,7 @@ A full-stack web application that allows users to create and search advertisemen
 
 ## 🔗 Live Demo
 
-- 🔵 **Frontend**: [https://your-vercel-app.vercel.app](https://your-vercel-app.vercel.app)
+- 🔵 **Frontend**: [https://your-vercel-app.vercel.app]([https://your-vercel-app.vercel.app](https://ad-frontend-mu.vercel.app/))
 - 🟢 **Backend API**: [https://adapi-backend.onrender.com/api](https://adapi-backend.onrender.com/api)
 
 ---
